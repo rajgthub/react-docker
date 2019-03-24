@@ -18,7 +18,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hi there
+            This is to learn the flow of automatic deployment with aws and travi-ci!
           </a>
         </header>
       </div>
